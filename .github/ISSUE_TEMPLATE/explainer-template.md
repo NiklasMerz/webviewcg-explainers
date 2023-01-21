@@ -35,7 +35,25 @@ This should be no more than 1-2 paragraphs.]
 [If there are "adjacent" goals which may appear to be in scope but aren't,
 enumerate them here. This section may be fleshed out as your design progresses and you encounter necessary technical and other trade-offs.]
 
-## [API 1]
+## Key scenarios
+
+[If there are a suite of interacting APIs, show how they work together to solve the key scenarios described.]
+
+### Scenario 1
+
+[Description of the end-user scenario]
+
+```js
+// Sample code demonstrating how to use these APIs to address that scenario.
+```
+
+### Scenario 2
+
+[etc.]
+
+## API proposal
+
+### [API 1]
 
 [For each related element of the proposed solution - be it an additional WebView API, a new web platform API, a new concept etc., create a section which briefly describes it.]
 
@@ -56,23 +74,7 @@ If there is no suitable external documentation, you might like to provide supple
 
 [If spec work is in progress, link to the PR or draft of the spec.]
 
-## [API 2]
-
-[etc.]
-
-## Key scenarios
-
-[If there are a suite of interacting APIs, show how they work together to solve the key scenarios described.]
-
-### Scenario 1
-
-[Description of the end-user scenario]
-
-```js
-// Sample code demonstrating how to use these APIs to address that scenario.
-```
-
-### Scenario 2
+### [API 2]
 
 [etc.]
 
